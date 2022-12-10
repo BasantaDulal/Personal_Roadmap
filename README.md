@@ -13,13 +13,17 @@ After completeing my Studies which was bachelors in Business Studies in Finance,
 6. Write the requirements to improve the banking software i.e. Finacle.
 7. Do the UAT testing after the update has been made in software and report the acceptance or changes required regarding CBS update.
 
-My most of the work in as a Business Analyst was related to data. So, my interest in data become more and more day by day and I start searching career oportunities in this field. Then, I come to know that a person can switch the work as a Data Analyst after acquiring certain skills. So, I decided to join the Data Analytics 
+My most of the work in as a Business Analyst was related to data. So, my interest in data become more and more day by day and I start searching career oportunities in this field. Then, I come to know that a person can switch the work as a Data Analyst after acquiring certain skills. So, I decided to join a Data Analytic course. As there were no courses related to data in our country, I have to go abroad for my studies. After doing some research, I find going to Canada viable and do necessary processing and left my job to persue necessary studies.
+
+During my job, I also completed my Masters in Business Studies as a Finance major. I also understand different financial concepts and use some of them during my work as well. In my masters, there was also statistics course, which give me strong statistical foundation. Those statistical concepts are now assets in my Data Analytics journey.
 
 ### Current State
 
 ![Current State](https://user-images.githubusercontent.com/109762085/206873111-a8b08913-72d7-4e0d-a430-b98bedcef0e0.jpg)
 
 ![C1](https://user-images.githubusercontent.com/109762085/206873137-0923128c-978c-4625-bd0d-58f3df78be25.jpg)
+
+
 
 ### Future State
 ![Future State](https://user-images.githubusercontent.com/109762085/206873166-ade409aa-2b1f-4370-ae9f-f2b4a1a33a1c.jpg)
