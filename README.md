@@ -17,7 +17,7 @@ My most of the work in as a Business Analyst was related to data. So, my interes
 
 During my job, I also completed my Masters in Business Studies as a Finance major. I also understand different financial concepts and use some of them during my work as well. In my masters, there was also statistics course, which give me strong statistical foundation. Those statistical concepts are now assets in my Data Analytics journey.
 
-### Current State
+# Current State
 
 ![Current State](https://user-images.githubusercontent.com/109762085/206873111-a8b08913-72d7-4e0d-a430-b98bedcef0e0.jpg)
 
@@ -27,7 +27,7 @@ Currently, I am studying Data Analytics for Business Decision Making at Durham C
 
 In addition to this course, I am also doing SQL, Pythton and PowerBI certification in U-demy. This certifications will help me to showcase my skills to potential employers.
 
-### Future State
+# Future State
 ![Future State](https://user-images.githubusercontent.com/109762085/206873166-ade409aa-2b1f-4370-ae9f-f2b4a1a33a1c.jpg)
 
 ![F1](https://user-images.githubusercontent.com/109762085/206873180-7f2cb839-787f-4d21-b9b6-f3cc907bfd7a.jpg)
