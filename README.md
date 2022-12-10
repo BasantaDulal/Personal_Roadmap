@@ -23,9 +23,13 @@ During my job, I also completed my Masters in Business Studies as a Finance majo
 
 ![C1](https://user-images.githubusercontent.com/109762085/206873137-0923128c-978c-4625-bd0d-58f3df78be25.jpg)
 
+Currently, I am studying Data Analytics for Business Decision Making at Durham College. During my study I have gain various skills and learn different tools. I learned Python and R programing language for data wrangling and model building. Further, I also learn learn Power BI and Tableau as a data transformation and visualization tool. Lastly, the most important skill required for data analysis that I have learned is SQL. My this study will be completed in December 2022 and I am going to take another AI course from January 2023 to enhance my current skills.
 
+In addition to this course, I am also doing SQL, Pythton and PowerBI certification in U-demy. This certifications will help me to showcase my skills to potential employers.
 
 ### Future State
 ![Future State](https://user-images.githubusercontent.com/109762085/206873166-ade409aa-2b1f-4370-ae9f-f2b4a1a33a1c.jpg)
 
 ![F1](https://user-images.githubusercontent.com/109762085/206873180-7f2cb839-787f-4d21-b9b6-f3cc907bfd7a.jpg)
+
+
